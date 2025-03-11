@@ -34,7 +34,7 @@ const CallToAction = () => {
           </p>
           <GetStartedButton />
           
-  =
+
         </motion.div>
       </div>
     </section>
