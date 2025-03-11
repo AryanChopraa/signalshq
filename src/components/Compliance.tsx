@@ -17,7 +17,7 @@ const Compliance = () => {
               <div className="absolute -top-10 -right-10 w-64 h-64 bg-purple-200 rounded-full mix-blend-multiply filter blur-3xl opacity-70 animate-float" style={{ animationDelay: '0.5s' }}></div>
               <div className="absolute -bottom-10 -left-10 w-64 h-64 bg-blue-200 rounded-full mix-blend-multiply filter blur-3xl opacity-70 animate-float" style={{ animationDelay: '1.5s' }}></div>
               <img 
-                src="public/uploads/feature2.avif" 
+                src="/uploads/feature2.avif" 
                 alt="Compliance visualization" 
                 className="relative z-10 rounded-xl shadow-lg object-cover w-full max-w-lg mx-auto"
               />
